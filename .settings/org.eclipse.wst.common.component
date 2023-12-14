@@ -1,23 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-<<<<<<< HEAD
-        
-    <wb-module deploy-name="openai.nesser_andrade">
-                
-        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
-                
-        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
-                
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-                
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
-                
-        <property name="context-root" value="openai.nesser_andrade"/>
-                
-        <property name="java-output-path" value="/openai.nesser_andrade/target/classes"/>
-            
-    </wb-module>
-    
-=======
     <wb-module deploy-name="openai.nesser_andrade">
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
@@ -26,5 +7,4 @@
         <property name="context-root" value="openai.nesser_andrade"/>
         <property name="java-output-path" value="/openai.nesser_andrade/target/classes"/>
     </wb-module>
->>>>>>> 6f8570d93f8f716616864b880dd4b76e318f23c6
 </project-modules>
