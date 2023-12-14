@@ -4,20 +4,6 @@
          xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee
                             https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
          version="6.0">
-   <!-- LISTENERS -->
-   <!--
-   Assim que o Weld inicializar, ele incluirá a classe
-   jakarta.enterprise.inject.spi.BeanManager, uma SPI portável que obtém
-   instâncias Java Beans, no contexto do servlet
-   (jakarta.servlet.ServletContext), cujo identificador será um nome igual ao
-   nome da classe qualificado.
-   NORMALMENTE, ESTA INTERFACE NÃO É NECESSÁRIA, MAS O WELD A USA. 
-   
-   <listener>
-      <listener-class>org.jboss.weld.environment.servlet.Listener</listener-class>
-   </listener>
-   -->
-
    <!-- PÁGINAS DE ERRO -->
    <error-page>
       <error-code>404</error-code>
