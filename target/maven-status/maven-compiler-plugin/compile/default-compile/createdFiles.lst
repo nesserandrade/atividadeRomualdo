@@ -1,2 +1,3 @@
 br\edu\ifpr\openai\nesser_andrade\config\JerseyApplicationConfig.class
+br\edu\ifpr\openai\gpt\Chatgpt.class
 br\edu\ifpr\openai\nesser_andrade\resources\OpenAIResource.class
